@@ -1,0 +1,15 @@
+.bg-new {
+    background-color: #F8F8F8;
+
+}
+
+.button-new {
+    border: transparent;
+    border-radius: 5px;
+}
+
+input {
+    border-radius: 2px;
+    background: #DCDCDC;
+    border: transparent;
+}
